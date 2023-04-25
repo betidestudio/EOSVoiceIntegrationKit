@@ -1,6 +1,3 @@
-# EOS-Voice-Integration-Kit
-
-
 <h1 align="center">EOS Voice Integration Kit</h1>
 
 ###
