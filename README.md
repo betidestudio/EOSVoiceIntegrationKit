@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="hhttps://media.discordapp.net/attachments/1087660336846487592/1100513347205599342/1.png?width=1662&height=935"  />
+  <img height="300" src="https://media.discordapp.net/attachments/1087660336846487592/1100513347205599342/1.png?width=1662&height=935"  />
 </div>
 
 ###
